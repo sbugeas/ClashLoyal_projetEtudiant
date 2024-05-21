@@ -16,9 +16,9 @@ Outils :
 
 Compétences :
 
-- structures de contrôle
-- pointeurs et tableaux
-- Liste doublement chaînée
+- Bases (Variables, fonctions, structures de contrôle, boucle itérative etc...)
+- Pointeurs et tableaux
+- Listes doublement chaînées
 - Librairies
 - Tri
 - Allocation/libération de mémoire
