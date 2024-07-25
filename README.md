@@ -10,6 +10,8 @@ Similaire au jeu Clash Royale de Supercell, chaque joueur dispose d'une tour du 
 Chaque tour de jeu, chacun des joueurs gagne de l'elixir, achète(ou non) une unité, combat puis déplace ses unités.
 Le premier joueur qui parvient à détruire la tour du roi adverse l'emporte.
 
+Le jeu se déroulant automatiquement(ordinateur vs ordinateur), aucune commande n'est attendue.
+
 Outils :
 
 - Code::Blocks(langage C)
